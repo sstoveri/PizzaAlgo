@@ -9,9 +9,5 @@
 5. Wait for delivery
 6. Greet delivery driver
 7. See step 4b if necessary
-<<<<<<< HEAD
-8. Enjoy
-=======
 8. Call friends
 9. Enjoy
->>>>>>> test
