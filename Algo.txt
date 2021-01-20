@@ -1,2 +1,11 @@
 1. Decide which business to  order from
+    1a. Maybe ask friends which place they like
+    1b. Come to an agreement with your friends
 2. Decide which type of pizza to order
+3. Call the pizza place 
+4. Order the pizza
+    4a. Pay over phone
+    4b. Pay at door
+5. Wait for delivery
+6. Greet delivery driver
+7. See step 4b if necessary
